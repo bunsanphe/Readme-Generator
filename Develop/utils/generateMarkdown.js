@@ -37,8 +37,7 @@ function generateTitle(title){
 };
 
 function generateDescription(description){
-  return `
-  # Description
+  return `# Description
   ${description}
   
   `

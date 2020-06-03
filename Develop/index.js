@@ -44,11 +44,6 @@ async function userResponse() {
                 message: "Go the extra mile and write tests for your application. Then provide examples on how to run them.",
                 name: "tests",
             },
-            {
-                type: "input",
-                message: "",
-                name: "questions",
-            },
             { 
                 type: "input",
                 message: "What is your Github username?",
